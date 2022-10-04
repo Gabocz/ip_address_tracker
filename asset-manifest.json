@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/ip_address_tracker/static/css/main.32c5433f.css",
-    "main.js": "/ip_address_tracker/static/js/main.cdec8917.js",
+    "main.js": "/ip_address_tracker/static/js/main.ef3b95b8.js",
     "static/js/787.ae94230f.chunk.js": "/ip_address_tracker/static/js/787.ae94230f.chunk.js",
     "static/media/pattern-bg.png": "/ip_address_tracker/static/media/pattern-bg.a60a3c85aa8b88aac4b7.png",
     "index.html": "/ip_address_tracker/index.html",
     "static/media/icon-location.svg": "/ip_address_tracker/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
     "static/media/icon-arrow.svg": "/ip_address_tracker/static/media/icon-arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
     "main.32c5433f.css.map": "/ip_address_tracker/static/css/main.32c5433f.css.map",
-    "main.cdec8917.js.map": "/ip_address_tracker/static/js/main.cdec8917.js.map",
+    "main.ef3b95b8.js.map": "/ip_address_tracker/static/js/main.ef3b95b8.js.map",
     "787.ae94230f.chunk.js.map": "/ip_address_tracker/static/js/787.ae94230f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32c5433f.css",
-    "static/js/main.cdec8917.js"
+    "static/js/main.ef3b95b8.js"
   ]
 }
