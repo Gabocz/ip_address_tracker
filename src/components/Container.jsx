@@ -17,7 +17,6 @@ function Container() {
 
     const setData = async () => {
        const data =  await getData(searchTerm)
-       console.log(data)
        setIpAddress(data.ip)
        setLocation(data.location.city)
        setTimezone(data.location.timezone)
